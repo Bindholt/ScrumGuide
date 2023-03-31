@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-image: url("images/scrum-background.jpg");
+    background-size: cover;
+}
+
+header {
+    background-color:rgb(19, 19, 133);
+    color: rgb(192, 209, 209);
+    margin-top: -25px;
+}
+
+article section {
+    padding-top: 20px;
+    color:rgb(192, 209, 209);
+    margin-top: -25px;
+    backdrop-filter: blur(50px);
+    
+}
+
+footer {
+    background-color:rgb(19, 19, 133);
+    color: rgb(192, 209, 209);
+    margin-top: -25px;
+}
