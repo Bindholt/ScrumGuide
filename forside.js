@@ -3,9 +3,9 @@
 window.addEventListener("load", initApp);
 
 function initApp() {
-    document.querySelector("#btn-back").addEventListener("click", goBack);
+    document.querySelector("#btn").addEventListener("click", goToMain);
 }
 
 function goToMain() {
-    window.location = "forside.html";
+    window.location = "index.html";
 }
